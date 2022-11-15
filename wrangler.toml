@@ -1,0 +1,12 @@
+name = "image-worker"
+
+compatibility_date = "2022-11-14"
+
+usage_model = "unbound" # unbound | bundled
+
+
+workers_dev = true
+
+main = "worker.js"
+
+[build]
